@@ -1,0 +1,4 @@
+demographic_parity_diff,positive_rate_unprivileged,positive_rate_privileged,lambda,constraint,equal_opportunity_diff,equal_opportunity_diff_raw,tpr_unprivileged,tpr_privileged
+0.05548153083129764,0.4240506329113924,0.47953216374269003,15.0,DemographicParityConstraint_0,,,,
+,,,6.0,EqualOpportunityConstraint_1,0.10691823899371078,0.10691823899371078,0.6666666666666666,0.7735849056603774
+,,,,AttributionBasedConstraint_2,,,,
