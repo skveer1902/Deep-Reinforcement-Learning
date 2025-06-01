@@ -42,8 +42,5 @@ FairRL is a reinforcement learning framework designed to reduce algorithmic bias
 - Enhance interpretability for stakeholders  
 
 ## Contributors
-Thomas Carr, Farsheed Haque, David Caballero, Subhash Krishna Veer Buddhi, Chinedu Ibeanu  
+Thomas Carr,Subhash Krishna Veer Buddhi
 University of North Carolina at Charlotte
-
-## License
-MIT License
